@@ -1,0 +1,65 @@
+* {
+  font-family: sans-serif, Arial;
+  color: rgb(20,20,20);
+  background-color: rgba(200,170,200,0.6)
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  color: #fcba03;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#top {
+  color: orange;
+  background-color: #2d2f30;
+  font-size: 300%
+}
+
+.imp {
+  font-style: oblique;
+  color: black;
+}
+
+/* 7 */
+
+address:hover {
+  border: 4px solid;
+  border-color: black;
+}
+
+
+ol>li {
+  font-style: italic;
+}
+
+li:active {
+  color: red;
+}
+
+
+/* 10 */
+a img {
+  border: 5px solid;
+  border-color: blue;
+}
+
+/* 11 */
+img:hover {
+  border: 5px solid;
+  border-color: red;
+}
+
+/* 12 */
+table, th, td {
+  border: 1px solid;
+}
+
+/* 13 */
+table {
+  border-spacing: 4px;
+}
